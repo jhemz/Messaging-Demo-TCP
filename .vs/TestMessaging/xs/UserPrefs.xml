@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7809AE31-6573-45F1-9C71-064268FE1917}|Default">
+  <MonoDevelop.Ide.ItemProperties.Messageing__Client FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestMessaging/Program.cs">
+    <Files>
+      <File FileName="TestMessaging/Program.cs" Line="48" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestMessaging" expanded="True">
+            <Node name="Messageing_Client" expanded="True" />
+            <Node name="Messaging_Server" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Messaging__Server PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

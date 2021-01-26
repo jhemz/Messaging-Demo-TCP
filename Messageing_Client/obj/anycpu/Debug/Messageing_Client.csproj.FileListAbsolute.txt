@@ -1,0 +1,6 @@
+/Users/james/Projects/TestMessaging/Messageing_Client/bin/Debug/Messageing_Client.exe
+/Users/james/Projects/TestMessaging/Messageing_Client/bin/Debug/Messageing_Client.pdb
+/Users/james/Projects/TestMessaging/Messageing_Client/obj/anycpu/Debug/Messageing_Client.csprojAssemblyReference.cache
+/Users/james/Projects/TestMessaging/Messageing_Client/obj/anycpu/Debug/Messageing_Client.csproj.CoreCompileInputs.cache
+/Users/james/Projects/TestMessaging/Messageing_Client/obj/anycpu/Debug/Messageing_Client.exe
+/Users/james/Projects/TestMessaging/Messageing_Client/obj/anycpu/Debug/Messageing_Client.pdb

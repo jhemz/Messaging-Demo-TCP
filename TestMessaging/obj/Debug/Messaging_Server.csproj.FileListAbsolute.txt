@@ -1,0 +1,5 @@
+/Users/james/Projects/TestMessaging/TestMessaging/bin/Debug/TestMessaging.exe
+/Users/james/Projects/TestMessaging/TestMessaging/bin/Debug/TestMessaging.pdb
+/Users/james/Projects/TestMessaging/TestMessaging/obj/Debug/Messaging_Server.csproj.CoreCompileInputs.cache
+/Users/james/Projects/TestMessaging/TestMessaging/obj/Debug/TestMessaging.exe
+/Users/james/Projects/TestMessaging/TestMessaging/obj/Debug/TestMessaging.pdb

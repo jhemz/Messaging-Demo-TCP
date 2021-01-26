@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messaging_Server", "TestMessaging\Messaging_Server.csproj", "{7809AE31-6573-45F1-9C71-064268FE1917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messageing_Client", "Messageing_Client\Messageing_Client.csproj", "{34430A60-99BD-4861-B61D-CF89AD1559C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7809AE31-6573-45F1-9C71-064268FE1917}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{7809AE31-6573-45F1-9C71-064268FE1917}.Debug|anycpu.Build.0 = Debug|anycpu
+		{7809AE31-6573-45F1-9C71-064268FE1917}.Release|anycpu.ActiveCfg = Release|anycpu
+		{7809AE31-6573-45F1-9C71-064268FE1917}.Release|anycpu.Build.0 = Release|anycpu
+		{34430A60-99BD-4861-B61D-CF89AD1559C1}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{34430A60-99BD-4861-B61D-CF89AD1559C1}.Debug|anycpu.Build.0 = Debug|anycpu
+		{34430A60-99BD-4861-B61D-CF89AD1559C1}.Release|anycpu.ActiveCfg = Release|anycpu
+		{34430A60-99BD-4861-B61D-CF89AD1559C1}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
